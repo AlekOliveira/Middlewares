@@ -15,7 +15,7 @@ Middlewares são interceptadores de requisições capazes de interromper totalme
 - Instale o gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 - Clone o repositório
 - Abra o terminal no diretório do projeto e instale as dependências com o comando **yarn**.
-- Após instaladas as dependências é só inicializar o servidor 😎. com o comando **yarn dev**.
+- Após instaladas as dependências é só inicializar o servidor com o comando **yarn dev** 😎.
 
 # Testando os middlewares nas requisições
 
