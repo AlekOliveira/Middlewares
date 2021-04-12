@@ -5,11 +5,11 @@ Middlewares são interceptadores de requisições capazes de interromper totalme
 
 **logRequests**
 
-Middleware capaz de exibir qual tipo de requisição foi feita (GET, POST, etc) e em qual rota.
+- Middleware capaz de exibir qual tipo de requisição foi feita (GET, POST, etc) e em qual rota.
 
 **validadeProjectId**
 
-Middleware para validar se o formato do id informado em rotas com requisições UPDATE e DELETE. 
+- Middleware para validar se o formato do id informado em rotas com requisições UPDATE e DELETE. 
 
 # Como executar este exemplo
 - Instale o gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
