@@ -22,6 +22,7 @@ Middleware para validar se o formato do id informado em rotas com requisições 
 
 Neste teste também é possível verificar a ação do middleware **logRequests**
 que atua em qualquer rota.
+
 ![img](https://github.com/AlekOliveira/Middlewares/blob/main/imgs/middleware.jpg)
 
 ### Tentativa de deleção de um id inválido/não existente
