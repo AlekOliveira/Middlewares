@@ -3,10 +3,10 @@ Middlewares são interceptadores de requisições capazes de interromper totalme
 
 # Middlewares Implementados neste exemplo
 
-## logRequests
+**logRequests**
 Middleware capaz de exibir qual tipo de requisição foi feita (GET, POST, etc) e em qual rota.
 
-## validadeProjectId
+**validadeProjectId**
 Middleware para validar se o formato do id informado em rotas com requisições UPDATE e DELETE. 
 
 # Como executar este exemplo
@@ -17,6 +17,7 @@ Middleware para validar se o formato do id informado em rotas com requisições 
 
 # Testando os middlewares nas requisições
 
+
 ### Listagem dos itens inseridos
 ![img](https://github.com/AlekOliveira/Middlewares/blob/main/imgs/listar.jpg)
 
@@ -25,8 +26,10 @@ que atua em qualquer rota.
 
 ![img](https://github.com/AlekOliveira/Middlewares/blob/main/imgs/middleware.jpg)
 
+
 ### Tentativa de deleção de um id inválido/não existente
 ![img](https://github.com/AlekOliveira/Middlewares/blob/main/imgs/deletar.jpg)
+
 
 ### Atualização de um item com id válido/existente
 ![img](https://github.com/AlekOliveira/Middlewares/blob/main/imgs/update.jpg)
