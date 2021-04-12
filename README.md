@@ -4,9 +4,11 @@ Middlewares são interceptadores de requisições capazes de interromper totalme
 # Middlewares Implementados neste exemplo
 
 **logRequests**
+
 Middleware capaz de exibir qual tipo de requisição foi feita (GET, POST, etc) e em qual rota.
 
 **validadeProjectId**
+
 Middleware para validar se o formato do id informado em rotas com requisições UPDATE e DELETE. 
 
 # Como executar este exemplo
